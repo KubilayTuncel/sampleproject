@@ -1,0 +1,1 @@
+package Örnek_Cözumu05;
